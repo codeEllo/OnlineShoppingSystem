@@ -1,4 +1,4 @@
-Ello!  All files included here are not fully completed yet as it may take time for me for uploading since it's my first time using GitHub😊
+Ello!  Please be remind that all files here are not fully completed yet😊
 
 In my 3rd degree, me and my team members together working on a web application system that will provide functionality and a responsive design using SQL in Oracle SQL Developer through XAMP  - Apache Friends. The purpose of this project is for students to be able to manage the flows in SQL Databases.
 
