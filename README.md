@@ -1,3 +1,7 @@
+In my 3rd degree, me and my team members together working on a web application system that will provide functionality and a responsive design using SQL in Oracle SQL Developer through XAMP  - Apache Friends. The purpose of this project is for students to be able to manage the flows in SQL Databases.
+
+
+
 - 👋 Hi, I’m Ellya Nadhirah, you can call me "Elly" as short
 - 👀 I’m interested in developing something valuable that will helps people a lot.
 - 🌱 currently learning Java,HTML,PHP,JavaScript
