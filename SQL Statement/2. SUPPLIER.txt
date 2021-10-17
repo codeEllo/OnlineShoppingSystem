@@ -1,0 +1,62 @@
+CREATE TABLE Supplier
+(
+Supplier_ID   NUMBER PRIMARY KEY,
+Supplier_Name  VARCHAR2(100) NOT NULL,
+Supplier_Ph    VARCHAR2(11) NOT NULL,
+Company_Name   VARCHAR2(100) NOT NULL,
+Supplier_Status NUMBER(2) DEFAULT 1 NOT NULL,
+Created_At      TIMESTAMP DEFAULT systimestamp NOT NULL, 
+Modified_At    TIMESTAMP DEFAULT NULL,
+Deleted_At      TIMESTAMP DEFAULT NULL
+);
+
+
+
+
+CREATE SEQUENCE SupplierInsert
+INCREMENT BY 1
+START WITH 100000
+MAXVALUE 999999
+NOCACHE
+NOCYCLE;
+
+
+CREATE OR REPLACE TRIGGER Supplier
+BEFORE INSERT ON SUPPLIER
+FOR EACH ROW
+
+BEGIN
+  SELECT SupplierInsert.NEXTVAL
+  INTO   :new.Supplier_ID
+  FROM   dual;
+END;
+
+
+
+
+
+
+INSERT INTO Supplier (Supplier_Name,Supplier_Ph,Company_Name,Supplier_Status) 
+SELECT * FROM(
+	SELECT 'Muhamed Daniel bin Arifin','0156038160','Intel Corp.',1 FROM DUAL UNION ALL
+	SELECT 'Jong Teo Puah','0151475404','Western Digital Corp.', 1 FROM DUAL UNION ALL
+	SELECT 'Violet Tiong Shuo Shiao','0166762880','GMC Worldwide Sdn Bhd', 1 FROM DUAL UNION ALL
+	SELECT 'Muhamed Wan Khairun Hazrol bin Che Daiman','0151709090','Seagate ASEAN', 1 FROM DUAL UNION ALL
+	SELECT 'Aqilah binti Syed Kamarul','0142741881','AMD Authorized Distributors', 1 FROM DUAL UNION ALL
+	SELECT 'Nur Asmaa Tajudin binti Zulfikar','0156038160','Coretronic',1 FROM DUAL UNION ALL
+	SELECT 'Cempaka binti Juhari','0156562433',' Dongguan Zhanshixing Technology Co.',1 FROM DUAL UNION ALL
+	SELECT 'Clara Maldonado','0137351946','PCB World Tech',1 FROM DUAL UNION ALL
+	SELECT 'Zhong Key Hoo','0163119911','Gigabyte Technology',1 FROM DUAL UNION ALL
+	SELECT 'Syed Arief bin Awaludin Faris','0140776768','Arrow.',1 FROM DUAL
+);
+
+
+
+
+
+
+
+
+
+
+

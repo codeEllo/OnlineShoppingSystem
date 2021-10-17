@@ -1,0 +1,49 @@
+﻿CREATE TABLE Order_Details(
+    Order_Details_ID     NUMBER PRIMARY KEY,
+    Quantity             NUMBER NOT NULL,
+    Order_Details_Status NUMBER DEFAULT 0 NOT NULL,
+    Created_At           TIMESTAMP DEFAULT systimestamp NOT NULL, 
+    Modified_At          TIMESTAMP DEFAULT NULL,
+    Deleted_At           TIMESTAMP DEFAULT NULL,
+    Product_ID           NUMBER NOT NULL REFERENCES Product(Product_ID),
+    Orders_ID            VARCHAR2(17) NOT NULL REFERENCES Orders(Orders_ID)
+);
+
+
+    
+
+
+
+
+
+
+
+
+
+
+CREATE SEQUENCE OrderDetailsInsert
+INCREMENT BY 1
+START WITH 1000
+MAXVALUE 999999
+NOCACHE
+NOCYCLE;
+
+
+
+
+
+
+
+
+
+
+
+
+CREATE OR REPLACE TRIGGER Order_Details
+BEFORE INSERT ON Order_Details
+FOR EACH ROW
+    BEGIN
+      SELECT OrderDetailsInsert.NEXTVAL
+      INTO   :new.Order_Details_ID
+      FROM   dual;
+    END;
