@@ -1,0 +1,15 @@
+We have to enable PDO for easier enter / update our db.
+
+I suggest go to C:/xampp/php/php.ini
+
+Search extension=pdo_oci and remove ;
+
+
+
+Once done create a new file inside htdocs [xampp/htdocs] named database_connection.php 
+
+and copy everything from [database_connection GITHUB] to that file
+
+Run it as once Apache Service has enabled
+
+localhost/database_connection.php
