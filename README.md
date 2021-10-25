@@ -1,11 +1,11 @@
-# INCOMPLETED FILES
+# COMPLETED FILES WITHOUT DATABASE ENVIRONMENT CONNECTION
 In my 3rd degree, me and my team members working together on a web application system that will provide functionality and a responsive system using SQL in Oracle SQL Developer through XAMP  - Apache Friends. The purpose of this project is for students to be able to manage the flows in SQL Databases.
 
-Please be remind that all files here are not fully completed yet😊
+/*Please be remind that all files here are not fully completed yet😊*/
 
-The uncompleted file:
-1) Some of jquery files
-2) Images
+/*The uncompleted file:
+/*1) Some of jquery files
+/*2) Images
 
 but here's the sample of my incompleted website. (SOME OF THE INFO LIKE USERNAME AND PRODUCT NAME ARE NOT PRESENTED AND CANNOT FETCH FROM DATABASE DUE TO NO ORACLE CONNECTION)
 
