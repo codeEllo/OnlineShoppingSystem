@@ -1,4 +1,4 @@
-# COMPLETED FILES WITHOUT DATABASE ENVIRONMENT CONNECTION
+# COMPLETED FILES
 In my 3rd degree, me and my team members working together on a web application system that will provide functionality and a responsive system using SQL in Oracle SQL Developer through XAMP  - Apache Friends. The purpose of this project is for students to be able to manage the flows in SQL Databases.
 
 
