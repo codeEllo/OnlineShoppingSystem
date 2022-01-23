@@ -1,8 +1,7 @@
-# COMPLETED FILES
-In my 3rd degree, me and my team members working together on a web application system that  provide functionality and responsive system using Oracle SQL Developer. The purpose of this project is for to be able to manage the flows in SQL Databases.
+During 3rd Degree, me nd my team working together on a web developing using Oracle SQL Developer. The purpose of this project is able to manage the advanced flows in SQL Databases.
 
 
-Here's the sample of my website(but without any server/database connection) (SOME OF THE INFO LIKE USERNAME AND PRODUCT NAME CANNOT BE FETCH FROM DATABASE DUE TO NO CONNECTION)
+Here's the sample of the website (without any server/database connection) (SOME OF THE INFO LIKE USERNAME AND PRODUCT NAME CANNOT BE FETCH DUE TO NO CONNECTION)
 
 1) HOMEPAGE
 >![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/Screenshot%202021-10-25%20000657.png)<br>
