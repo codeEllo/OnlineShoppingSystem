@@ -1,8 +1,9 @@
 # ICT502 Project
 During 3rd Degree, me nd my team working together on a web developing using Oracle SQL Developer. The purpose of this project is able to manage the advanced flows in SQL Databases.
 
+WITH NO DATABASE CONNECTION! (ingat free ke)
 
-Here's the sample of the website (without any server/database connection) (SOME OF THE INFO LIKE USERNAME AND PRODUCT NAME CANNOT BE FETCH DUE TO NO CONNECTION)
+Here's the sample of the website
 
 1) HOMEPAGE
 >![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/Screenshot%202021-10-25%20000657.png)<br>
