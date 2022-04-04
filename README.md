@@ -12,7 +12,7 @@ Here's the sample of the website
 >![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/OUR%20STORY.png)<br>
 
 3) PRODUCT DETAILS (TOTAL 70 PRODUCTS)
->![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/Screenshot%202021-10-25%20000306.png)<br>
+>![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/Screenshot%202021-10-25%20000306.png?token=GHSAT0AAAAAABTGDEV2PC4JGTXODNGZCONMYSK5R3Q)<br>
 
 4) CONTACT FORM
 >![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/CONTACT.png)<br>
