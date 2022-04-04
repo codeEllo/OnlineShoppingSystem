@@ -15,7 +15,7 @@ Here's the sample of the website
 >![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/Screenshot%202021-10-25%20000306.png?token=GHSAT0AAAAAABTGDEV2PC4JGTXODNGZCONMYSK5R3Q)<br>
 
 4) CONTACT FORM
->![FOOTAGE](https://raw.githubusercontent.com/codeEllo/OnlineShoppingSystem/main/CONTACT.png)<br>
+>![FOOTAGE](https://github.com/codeEllo/OnlineShoppingSystem/blob/main/CONTACT.png?raw=true)<br>
 >
 
 
