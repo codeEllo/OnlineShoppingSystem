@@ -6,13 +6,13 @@ WITH NO DATABASE CONNECTION! (ingat free ke)
 Here's the sample of the website
 
 1) HOMEPAGE
->![FOOTAGE](https://github.com/codeEllo/OnlineShoppingSystem/blob/main/Screenshot%202021-10-25%20000657.png?raw=true)<br>
+>![FOOTAGE](![image](https://user-images.githubusercontent.com/76162678/162338433-b5febeca-acf9-40e3-a15d-236c9c480bcf.png))<br>
 
 2) ABOUT
->![FOOTAGE](https://github.com/codeEllo/OnlineShoppingSystem/blob/main/OUR%20STORY.png?raw=true)<br>
+>![FOOTAGE](https://github.com/codeEllo/OnlineShopping-System/blob/main/OUR%20STORY.png?raw=true)<br>
 
 3) PRODUCT DETAILS (TOTAL 70 PRODUCTS)
->![FOOTAGE](https://github.com/codeEllo/OnlineShoppingSystem/blob/main/Screenshot%202021-10-25%20000306.png?raw=true)<br>
+>![FOOTAGE](https://github.com/codeEllo/OnlineShopping-System/blob/main/Screenshot%202021-10-25%20000306.png?raw=true)<br>
 
 4) CONTACT FORM
 >![FOOTAGE](https://github.com/codeEllo/OnlineShopping-System/blob/main/CONTACT.png?raw=true)<br>
