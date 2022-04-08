@@ -6,7 +6,7 @@ WITH NO DATABASE CONNECTION! (ingat free ke)
 Here's the sample of the website
 
 1) HOMEPAGE
->![FOOTAGE](![image](https://user-images.githubusercontent.com/76162678/162338433-b5febeca-acf9-40e3-a15d-236c9c480bcf.png))<br>
+>![FOOTAGE](https://github.com/codeEllo/OnlineShopping-System/blob/main/Screenshot%202021-10-25%20000657.png?raw=true)<br>
 
 2) ABOUT
 >![FOOTAGE](https://github.com/codeEllo/OnlineShopping-System/blob/main/OUR%20STORY.png?raw=true)<br>
