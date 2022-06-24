@@ -1,7 +1,8 @@
 # ICT502 Project
-During 3rd Degree, me nd my team working together on a web developing using Oracle SQL Developer. The purpose of this project is able to manage the advanced flows in SQL Databases.
+Me and my team  member worked together on a web developing using Oracle SQL Developer. 
+The purpose of this project is to be able manage the advanced flows and algorithms in Oracle SQL Databases.
 
-WITH NO DATABASE CONNECTION! (ingat free ke)
+WITH NO DATABASE CONNECTION!
 
 Here's the sample of the website
 
