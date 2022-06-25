@@ -1,6 +1,6 @@
 # ICT502 Project
 Me and my team  member worked together on a web developing using Oracle SQL Developer. 
-The purpose of this project is to be able manage the advanced flows and algorithms in Oracle SQL Databases.
+The purpose of this project is to develope a web-based system based on suitable components within the advanced flows and algorithms using Oracle Databases.
 
 WITH NO DATABASE CONNECTION!
 
